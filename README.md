@@ -1,1 +1,3 @@
-# Scrapping_Berita_Platform_BBC
+Proyek ini merupakan tugas kelompok pada mata kuliah Big Data dan Data Mining. Proses pengembangan dilakukan dengan pembagian tugas agar setiap tahapan dapat dikerjakan secara efektif.
+Kontribusi saya meliputi tahap pengumpulan data (data collection), persiapan data (data preparation), pembersihan data (data preprocessing), serta analisis eksploratif (exploratory data analysis / EDA). Tahapan web scraping dan data mining, termasuk pemilihan model machine learning untuk klasifikasi kategori berita, ditangani oleh anggota tim lainnya.
+Walaupun tugas dibagi, seluruh anggota memiliki kewajiban untuk memahami keseluruhan proses yang dilakukan dalam proyek ini.
